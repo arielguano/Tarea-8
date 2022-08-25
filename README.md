@@ -10,7 +10,7 @@ NRC: 7318
 
 # 1.- OBJETIVOS
 
-Objetivo General
+ Objetivo General
 
 Conozer los circuitos RC y RL, poder encontrar en sus diferentes etapas de carga y descarga, así como también complementarlo con un análisis matemático para
 
@@ -30,8 +30,9 @@ RAnalizar dinámicamente las oscilaciones electromagnéticas en el circuito RLC 
 
 Estudio de las características de circuitos RC y RL. Respuesta para tensiones cuadradas y sinusoidales. Impedancia y admitancia inductiva.
 
-
-
-
-
 Describir la relación entre corriente y voltaje en un circuito RC en serie
+
+# 2. MARCO TEÓRICO
+
+
+
