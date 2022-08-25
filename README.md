@@ -68,5 +68,28 @@ Describir la relación entre corriente y voltaje en un circuito RC en serie
 ![image]()
 
 ![image]()
+# 4.- VIDEO
 
+# 5.- CONCLUSIONES
+
+En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente
+
+sinusoidal. La unidad es Ω (ohm). La impedancia también provoca una diferencia de fase entre la corriente total y la tensión de alimentación. Por lo tanto, la 
+
+impedancia consta de un componente de magnitud y un componente de ángulo de fase.
+
+Los números complejos se crearon con el propósito de tratar con cantidades de fase, de manera similar a realizar operaciones que involucran tanto el volumen como el
+
+ángulo. Explique de manera simple, los circuitos RC son circuitos con al menos una resistencia y un capacitor integrados en el circuito. Explique de manera simple, un
+
+circuito RL es un circuito con la menor resistencia e inductancia integradas en el circuito. Los circuitos Serie y Paralelo RC o RL se caracterizan por construir el 
+
+circuito pensando en el capacitor y el inductor, como si estuvieran sujetos a una resistencia, de ahí que se caracterice por ser serie y paralelo como un solo
+
+circuito.
+
+
+# 6.- BIBLIOGRAFÍA
+
+THOMAS, F. (2007). Principios de circuitos eléctricos.Octava edición. En T. Floyd, Principios de circuitos eléctricos.Octava edición (págs. 600-725).México: Pearson Educación de México, S.A. de C.V.
 
