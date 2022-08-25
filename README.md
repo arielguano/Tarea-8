@@ -38,7 +38,7 @@ Describir la relación entre corriente y voltaje en un circuito RC en serie
 
 ![image](https://github.com/arielguano/Tarea-8/blob/main/Imagen1.jpg)
 
-# Capitulo 15
+# Capitulo 16
 
 ![image](https://github.com/arielguano/Tarea-8/blob/main/Imagen2.jpg)
 
