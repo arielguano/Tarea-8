@@ -33,6 +33,9 @@ Estudio de las características de circuitos RC y RL. Respuesta para tensiones c
 Describir la relación entre corriente y voltaje en un circuito RC en serie
 
 # 2. MARCO TEÓRICO
+
+# Capitulo 15
+
 ![image](https://github.com/arielguano/Tarea-8/blob/main/Imagen1.jpg)
 
 ![image](https://github.com/arielguano/Tarea-8/blob/main/Imagen2.jpg)
