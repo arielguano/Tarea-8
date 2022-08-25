@@ -33,6 +33,40 @@ Estudio de las características de circuitos RC y RL. Respuesta para tensiones c
 Describir la relación entre corriente y voltaje en un circuito RC en serie
 
 # 2. MARCO TEÓRICO
+![image]()
 
+![image]()
+
+# CAPITULO 16: CIRCUITOS RL
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-01.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-02.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-03.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-04.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-05.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-06.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-07.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-08.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-09.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-10.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-11.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-12.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-13.png)
+
+![image]()
+
+![image]()
 
 
