@@ -70,8 +70,23 @@ Describir la relación entre corriente y voltaje en un circuito RC en serie
 
 ![image](https://github.com/arielguano/Tarea-8/blob/main/DEBER%20%5EN8-13.png)
 
-![image]()
+https://github.com/arielguano/Tarea-8/blob/main/parte2-1.png)
 
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-2.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-3.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-4.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-5.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-6.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-7.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-8.png)
+
+![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-9.png)
 
 # 4.- VIDEO
 
