@@ -89,7 +89,7 @@ https://github.com/arielguano/Tarea-8/blob/main/parte2-1.png)
 ![image](https://github.com/arielguano/Tarea-8/blob/main/parte2-9.png)
 
 # 4.- VIDEO
-
+https://www.youtube.com/watch?v=JmbiCaIn4MA
 # 5.- CONCLUSIONES
 
 En conclusión, la impedancia de un circuito en serie RL formado por resistencia y reactancia inductiva es la fuerza reactiva total con respecto a una corriente
